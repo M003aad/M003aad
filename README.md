@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=M003aad&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=M003aad&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" height="165" />
 </p>
 
 ---
