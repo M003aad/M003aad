@@ -27,6 +27,7 @@
   <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" height="180" />
   <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" height="180" />
 </p>
+
 ---
 
 ### 🐍 Contribution Activity
