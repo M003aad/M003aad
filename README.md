@@ -22,10 +22,6 @@
   <img src="https://streak-stats.demolab.com/?user=M003aad&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M003aad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M003aad&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
 
 ---
 
