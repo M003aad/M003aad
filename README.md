@@ -29,6 +29,7 @@
 </p>
 ---
 
+[![generate animation](https://github.com/M003aad/M003aad/actions/workflows/snake.yml/badge.svg)](https://github.com/M003aad/M003aad/actions/workflows/snake.yml)
 ### 🐍 Contribution Activity
 
 <p align="center">
